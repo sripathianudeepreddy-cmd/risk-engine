@@ -1,0 +1,8 @@
+[functions.audit-strategy]
+verify_jwt = true
+
+[functions.market-data]
+verify_jwt = false
+
+[functions.macro-intel]
+verify_jwt = true
